@@ -25,11 +25,13 @@ This project demonstrates a microservices architecture with six core services—
    ```bash
    git clone https://github.com/yourusername/microservices-containerization.git
    cd microservices-containerization
-  ```
+   ```
 2. Build and run the services:
-  ```bash
-  docker-compose up --build
-  ```
+
+   ```bash
+   docker-compose up --build
+   ```
+
 3. Access the services via the following URLs:
 
     a. Auth Service: http://localhost:5001/
