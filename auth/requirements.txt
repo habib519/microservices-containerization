@@ -1,4 +1,2 @@
-1. Install python 
-2. Install the python pip
-3. pip install flask
+pip install flask
 
