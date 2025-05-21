@@ -28,8 +28,8 @@ This project demonstrates a microservices architecture with six core services—
   ```
 2. Build and run the services:
   ```bash
-  docker-compose up --build
-```
+   docker-compose up --build
+  ```
 3. Access the services via the following URLs:
 
     a. Auth Service: http://localhost:5001/
